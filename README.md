@@ -1,4 +1,4 @@
-# Chroma_Vector_DB
+# Chroma_Vector_DB #
 <H2>Voorbeeld toepassing Vector Database met Chroma</H2>
 <p>Kan je met Artificial Intelligence slim semantisch zoeken op je eigen actuele gegevens en documenten? Jazeker, door gebruik te maken van een Vector database (zoals Chroma of Weaviate ) en ChatGPT of een ander LLM.</p>
 
